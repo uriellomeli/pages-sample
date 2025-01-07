@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Uriel Lomelí Carrillo, PhD
+email: uriel.lomelicarrillo@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  At CSPV, I collaborate on different projects as part of the evaluation team and as a data analyst. 
+  I have a degree in Economics from the National Autonomous University of Mexico, a Master’s degree in Population Studies, and a Doctorate in Demography from The University of Texas at San Antonio. 
+  I also enjoy biking, hiking, reading non-fiction, going to movie matinees, and playing and watching fútbol.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
-url: "https://CU-Boulder-CRDDS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uriellomeli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
