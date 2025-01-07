@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I also enjoy biking, hiking, reading non-fiction, going to movie matinees, and playing and watching fútbol.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://uriellomeli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ulomelic
+github_username:  uriellomeli
 
 # Build settings
 theme: minima
