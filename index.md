@@ -13,4 +13,4 @@ title: Home
 - [Embeds](04-embeds-examples)
 
 
-[dummy text]([http://fillerama.io/](https://www.jornada.com.mx/))
+[dummy text](https://www.jornada.com.mx/)
