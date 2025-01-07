@@ -30,7 +30,7 @@ twitter_username: ulomelic
 github_username:  uriellomeli
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
